@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Lý Hồng Phương Ân</h1>
-<h3 align="center">Sinh viên ngành CNTT, yêu thích lập trình web, an ninh mạng và AI</h3>
+<h1 align="center">Hi 👋, I'm Ly Hong Phuong An</h1>
+<h3 align="center">A Cybersecurity student passionate about Information Security, Web Development and AI</h3>
 
 ---
 
-### 🏫 About me  
-🎓 Sinh viên tại **HUFLIT**  
-💡 Đam mê công nghệ và phát triển phần mềm  
-🌱 Hiện đang học **C#, Java, Python**  
-💬 Luôn tìm hiểu về **AI** và **Web Development**
+### 🏫 About Me  
+🎓 Student at **HUFLIT** majoring in **Cybersecurity**  
+🔐 Interested in **Network Security**, **Ethical Hacking**, and **Penetration Testing**  
+💡 Passionate about technology and data protection  
+🌱 Currently learning **C#, Java, and Python**  
+💬 Exploring **Web Application Security** and **AI-based threat detection**
 
 ---
 
@@ -32,10 +33,19 @@
 
 ---
 
+### 🧠 Cybersecurity Interests  
+- 🔍 Web Application Vulnerability Testing (SQLi, XSS, CSRF)  
+- 🧱 Network Defense and Firewall Configuration  
+- ⚙️ Digital Forensics and Incident Response  
+- 💾 Secure Coding Practices and Encryption  
+- 🧠 AI for Cyber Threat Analysis  
+
+---
+
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miraclestg&show_icons=true&theme=white&custom_title=Hoạt%20động%20trên%20GitHub" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclestg&layout=compact&theme=white&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miraclestg&show_icons=true&theme=white" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclestg&layout=compact&theme=white&langs_count=10" alt="Top Langs" />
 </p>
 
 
