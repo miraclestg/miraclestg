@@ -33,19 +33,10 @@
 ---
 
 ### 📊 GitHub Stats  
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=miraclestg&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="150"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclestg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&text_color=70A5FD&title_color=70A5FD" height="150"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miraclestg&show_icons=true&theme=white&custom_title=Hoạt%20động%20trên%20GitHub" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclestg&layout=compact&theme=white&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="Top Langs" />
+</p>
 
 
 ---
