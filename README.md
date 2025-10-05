@@ -40,14 +40,6 @@
 
 ---
 
-### 📈 Activities  
-
-| Top ngôn ngữ được dùng | Hoạt động trên GitHub |
-|-------------------------|-----------------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraclestg&layout=compact&theme=tokyonight) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miraclestg&show_icons=true&theme=tokyonight) |
-
----
-
 ### ✨ Fun Quote  
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
