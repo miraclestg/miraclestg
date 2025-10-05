@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://linkedin.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
   <a href="https://facebook.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="30" /></a>
-  <a href="mailto:yourmail@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" /></a>
+  <a href="mailto:lyhongphuongan@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" /></a>
   <a href="https://github.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30" /></a>
 </p>
 
@@ -34,9 +34,17 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miraclestg&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclestg&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
+
+---
+
+### 📈 Activities  
+
+| Top ngôn ngữ được dùng | Hoạt động trên GitHub |
+|-------------------------|-----------------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraclestg&layout=compact&theme=tokyonight) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miraclestg&show_icons=true&theme=tokyonight) |
 
 ---
 
